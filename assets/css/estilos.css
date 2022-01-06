@@ -2,10 +2,17 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* NAVBAR */
+
+.navbar a:hover{
+  color: #fff;
+  font-weight: 700;
+}
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/hero-banner_Mesa\ de\ trabajo\ 1.jpg");
+  background-image: url("../img/banner-color-amarillo-gris.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -42,6 +49,15 @@ body {
 .yellow{
   color: #fec926;
 }
+
 .grey{
   color: #191a18;
+}
+
+.backgr{
+  background-color: #49473d;
+}
+
+.backgry{
+  background-color: #fec926;
 }
