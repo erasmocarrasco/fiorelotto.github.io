@@ -4,9 +4,18 @@ body {
 
 /* NAVBAR */
 
+.navbar{
+  color: #191a18;;
+}
+
 .navbar a:hover{
-  color: #fff;
+  color: #191a18;
   font-weight: 700;
+}
+
+.navbar .class-nav:visited{
+  color: #fff;
+  text-decoration: none;
 }
 
 /* HERO SECTION */
@@ -18,7 +27,7 @@ body {
   background-position: left;
 }
 
-/* NAV */
+/* NAVLINK */
 
 nav .class-nav{
   color: #fff;
@@ -37,6 +46,11 @@ nav .class-nav:visited{
   text-decoration: none;
 }
 
+/* ABOUT ME */
+#about-me{
+  color: #191a18;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -48,9 +62,8 @@ nav .class-nav:visited{
 
 /* Contacto */
 
-#Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
+#Contacto{
+  color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -73,8 +86,12 @@ nav .class-nav:visited{
   color: #191a18;
 }
 
+.white{
+  color: #fff;
+}
+
 .backgr{
-  background-color: #49473d;
+  background-color: #191a18;
 }
 
 .backgry{
