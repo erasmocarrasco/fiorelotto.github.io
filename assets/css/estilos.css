@@ -9,13 +9,32 @@ body {
   font-weight: 700;
 }
 
-/* Hero Section */
+/* HERO SECTION */
 
 #Hero-Section {
   background-image: url("../img/banner-color-amarillo-gris.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+/* NAV */
+
+nav .class-nav{
+  color: #fff;
+  text-decoration: none;
+}
+
+nav .class-nav:hover{
+  background-color: #fec926;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+nav .class-nav:visited{
+  color: #fff;
+  text-decoration: none;
 }
 
 /* Mis trabajos */
