@@ -51,6 +51,12 @@ nav .class-nav:visited{
   color: #191a18;
 }
 
+#about-me .row{
+  background-color: #fffbf1;
+  border: dashed 2px #fec926;
+  border-radius: 50px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -58,6 +64,14 @@ nav .class-nav:visited{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+#Mis-trabajos h5{
+  color: #fec926;
+}
+
+#Mis-trabajos .image-top:hover{
+  opacity: 0.7;
 }
 
 /* Contacto */
