@@ -1,9 +1,9 @@
+/* BODY */
 body {
   font-family: "Raleway", sans-serif;
 }
 
 /* NAVBAR */
-
 .navbar{
   color: #191a18;;
 }
@@ -19,7 +19,6 @@ body {
 }
 
 /* HERO SECTION */
-
 #Hero-Section{
   background-image: url("../img/banner-color-amarillo-gris.jpg");
   background-repeat: no-repeat;
@@ -28,7 +27,6 @@ body {
 }
 
 /* NAVLINK */
-
 nav{
   border-bottom: #fec926 solid 10px;
 }
@@ -50,7 +48,7 @@ nav .class-nav:visited{
   text-decoration: none;
 }
 
-/* ABOUT ME */
+/* SOBRE MI */
 #about-me{
   color: #191a18;
 }
@@ -61,8 +59,7 @@ nav .class-nav:visited{
   border-radius: 50px;
 }
 
-/* Mis trabajos */
-
+/* MIS TRABAJOS */
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -78,8 +75,7 @@ nav .class-nav:visited{
   opacity: 0.7;
 }
 
-/* Contacto */
-
+/* FORM CONTACTO */
 #Contacto{
   color: #fff;
 }
@@ -92,7 +88,6 @@ nav .class-nav:visited{
   .navbar-brand{
     width: 100px;
   }
-
 }
 
 /* COLOR ESPECIAL */
@@ -117,7 +112,6 @@ nav .class-nav:visited{
 }
 
 /* PADDING SECTION */
-
 .padd-section{
-  padding-top:  12vh;
+  padding-top:  15vh;
 }
