@@ -19,7 +19,7 @@ body {
 }
 
 /* HERO SECTION */
-#Hero-Section{
+.hero-section{
   background-image: url("../img/banner-color-amarillo-gris.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -73,6 +73,16 @@ nav .class-nav:visited{
 
 #Mis-trabajos .image-top:hover{
   opacity: 0.7;
+}
+
+#Mis-trabajos .card{
+  border-radius: 30px;
+}
+
+#Mis-trabajos .image-top{
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom: #fec926 20px solid;
 }
 
 /* FORM CONTACTO */
