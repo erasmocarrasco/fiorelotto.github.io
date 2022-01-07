@@ -20,7 +20,7 @@ body {
 
 /* HERO SECTION */
 
-#Hero-Section {
+#Hero-Section{
   background-image: url("../img/banner-color-amarillo-gris.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,6 +28,10 @@ body {
 }
 
 /* NAVLINK */
+
+nav{
+  border-bottom: #fec926 solid 10px;
+}
 
 nav .class-nav{
   color: #fff;
@@ -110,4 +114,10 @@ nav .class-nav:visited{
 
 .backgry{
   background-color: #fec926;
+}
+
+/* PADDING SECTION */
+
+.padd-section{
+  padding-top:  12vh;
 }
