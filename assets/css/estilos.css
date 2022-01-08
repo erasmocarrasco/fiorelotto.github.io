@@ -129,3 +129,8 @@ nav .class-nav:visited{
 .padd-section{
   padding-top:  15vh;
 }
+
+/* CAROUSEL */
+.carousel-item h5{
+  font-size: 6rem;
+}
