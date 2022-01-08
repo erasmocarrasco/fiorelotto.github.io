@@ -1,11 +1,11 @@
 /* BODY */
-body {
+body{
   font-family: "Raleway", sans-serif;
 }
 
 /* NAVBAR */
 .navbar{
-  color: #191a18;;
+  color: #191a18;
 }
 
 .navbar a:hover{
@@ -94,16 +94,6 @@ nav .class-nav:visited{
   color: #fff;
 }
 
-@media (max-width: 768px) {
-  #Contacto form label {
-    font-weight: 400;
-  }
-
-  .navbar-brand{
-    width: 100px;
-  }
-}
-
 /* COLOR ESPECIAL */
 .yellow{
   color: #fec926;
@@ -140,6 +130,10 @@ nav .class-nav:visited{
   color: #fff;
 }
 
+.accordion-body p{
+  color: #191a18;
+}
+
 .efect-hover:hover{
   background-color: #191a18;
   color: #fff;
@@ -151,6 +145,16 @@ nav .class-nav:visited{
   padding: 3vh;
   background-color: #191a18;
   font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
 }
 
 
