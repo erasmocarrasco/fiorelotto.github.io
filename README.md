@@ -1,10 +1,9 @@
-# fdsw-github
-## Portafolio
+# Portafolio
 
-***hola soy Jacque***
+## ***¡Hola soy Jacque!***
 
 ***
-<El optimismo firme y paciente siempre rinde sus frutos
+> El optimismo firme y paciente siempre rinde sus frutos
 ***
 
 Actualmente me encuentro realizando un curso de **Fundamentos de Desarrollo Web y Carrera de Diseño UX/UI en Desafío Latam.**
