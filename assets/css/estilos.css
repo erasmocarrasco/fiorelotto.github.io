@@ -171,3 +171,8 @@ nav .class-nav:visited{
   border: dashed 2px #fec926;
   border-radius: 50px;
 }
+
+/* MI PORTAFOLIO */
+.mi-portafolio a{
+  text-decoration: none;
+}
