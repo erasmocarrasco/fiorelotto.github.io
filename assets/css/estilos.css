@@ -157,5 +157,17 @@ nav .class-nav:visited{
   }
 }
 
+/* EDUCACIÓN */
+.educacion li{
+  font-size: 0.85rem;
+}
 
+.educacion{
+  color: #191a18;
+}
 
+.educacion .row{
+  background-color: #fffbf1;
+  border: dashed 2px #fec926;
+  border-radius: 50px;
+}
