@@ -26,6 +26,13 @@ body{
   background-position: left;
 }
 
+.hero-portfolio{
+  background-image: url("../img/banner-portafolio.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 /* NAVLINK */
 nav{
   border-bottom: #fec926 solid 10px;
