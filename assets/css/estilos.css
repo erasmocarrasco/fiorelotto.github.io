@@ -182,5 +182,15 @@ nav .class-nav:visited{
 /* MI PORTAFOLIO */
 .mi-portafolio a{
   text-decoration: none;
+  color: #191a18;
+}
+
+.mi-portafolio .btn{
+  text-decoration: none;
   color: #fec926;
+}
+
+.mi-portafolio .btn:hover{
+  text-decoration: none;
+  color: #fff;
 }
