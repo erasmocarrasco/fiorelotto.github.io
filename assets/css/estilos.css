@@ -18,6 +18,15 @@ body{
   text-decoration: none;
 }
 
+nav .dropdown-menu{
+  background-color: #fec926;
+}
+
+nav .dropdown-menu a:hover{
+  background-color: #191a18;
+  color: #fec926;
+}
+
 /* HERO SECTION */
 .hero-section{
   background-image: url("../img/banner-color-amarillo-gris.jpg");
@@ -128,7 +137,7 @@ nav .class-nav:visited{
 
 /* PADDING SECTION */
 .padd-section{
-  padding-top:  15vh;
+  padding-top:  18vh;
 }
 
 /* ACCORDION */
