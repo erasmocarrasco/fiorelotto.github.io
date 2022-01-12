@@ -42,6 +42,14 @@ nav .dropdown-menu a:hover{
   background-position: left;
 }
 
+.hero-1{
+  background-image: url("../img/photo-proyecto1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+}
+
 /* NAVLINK */
 nav{
   border-bottom: #fec926 solid 10px;
