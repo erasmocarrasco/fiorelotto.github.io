@@ -171,16 +171,6 @@ nav .class-nav:visited{
   font-size: 1rem;
 }
 
-@media (max-width: 768px) {
-  .contacto form label {
-    font-weight: 400;
-  }
-
-  .navbar-brand{
-    width: 100px;
-  }
-}
-
 /* EDUCACIÓN */
 .educacion li{
   font-size: 0.85rem;
@@ -227,4 +217,14 @@ footer a:hover{
   color: #191a18;
   opacity: 0.8;
   font-weight: 900;
+}
+
+@media (max-width: 768px) {
+  .contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
 }
