@@ -1,0 +1,152 @@
+/* style.css */
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: olivedrab;
+    background-color:rgb(227, 238, 227);
+}
+
+.header{
+    height: 3em;
+    padding: 4em;
+    font-size: 1.5em;
+    background-image: url(https://images.unsplash.com/photo-1543352634-99a5d50ae78e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);
+    background-size: 1600px;
+    background-position: center;
+    text-align: center;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.header h1{
+    margin: auto;
+    font-weight: 400;
+}
+
+.phrases{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.25em;
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+    background-color: olivedrab;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    margin-top: -1em;
+    border-radius: 20px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+/* Otras propiedades individuales*/
+
+.grey{
+    color: gray;
+}
+.italic {
+    font-style: italic;
+}
+.textbig{
+    font-size: 1.5em;
+}
+
+.imgtable{
+    background-image: url(https://images.unsplash.com/photo-1494859802809-d069c3b71a8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: 2100px;
+}
+
+.separation{    
+    border-collapse: collapse;
+}
+
+.bold{
+    font-weight: 400;
+}
+
+/* Tabla inicial sobre productos */
+
+.products{
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+
+.products td{
+    width: 50%;
+    padding: 3em;
+    border-bottom: 2px solid olivedrab;
+    border-collapse: collapse;
+}
+
+.products img{
+    width: 100%;
+    border: dashed 2px;
+    padding: 0.5em;
+    border-radius: 25px;
+}
+
+.products img:hover {
+    opacity: 0.6;
+}
+
+.products ol li{
+    text-align: left;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+/* Tabla nutrición */
+
+.nutrition{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.nutrition table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 550px;
+}
+
+.nutrition th{
+    padding: 0.5em;
+    background-color: olivedrab;
+    color:white;
+}
+
+.nutrition td{
+    padding: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    width: auto;
+    border-bottom: 1px solid olivedrab;
+}
+
+.nutrition tbody tr:hover {background-color: rgb(195, 219, 195);
+}
+
+/* Zona inferior web */
+
+.accesshtml{
+    color: olivedrab;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.footer{
+    height: 4em;
+    line-height: 4em;
+    background-color: olivedrab;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 50px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
