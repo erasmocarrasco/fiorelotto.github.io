@@ -1,0 +1,96 @@
+/* BODY */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/* NAVBAR */
+
+.navbar a:hover{
+    font-weight: 700;
+}
+
+/* NAV */
+
+nav .class-nav{
+    color: #fff;
+    text-decoration: none;
+}
+
+nav .class-nav:hover{
+    background-color: #38be58;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+nav .class-nav:visited{
+    color: #fff;
+    text-decoration: none;
+}
+
+/* MAIN */
+
+main .card-title{
+    color: #212529;
+    font-weight: 300;
+}
+
+main .txtsmall{
+    color: #707070;
+    font-size: 0.8rem;
+}
+
+main img:hover {
+    opacity: 0.7;
+}
+
+/* CAROUSEL */
+
+.carousel-item h5{
+    font-size: 3rem;
+}
+
+/* OTRAS PROPIEDADES INDIVIDUALES */
+
+/* ANCHO FUENTE */
+
+.weight300{
+    font-weight: 300;
+}
+.weight500{
+    font-weight: 500;
+}
+
+.weight700{
+    font-weight: 700;
+}
+
+/* COLORES */
+
+.colorgreen{
+    color: #28a745;
+}
+
+.colorgrey{
+    color: #707070;
+}
+
+.colorwhite{
+    color: #fff;
+}
+
+.colorgreendark{
+    color: #035716;
+}
+
+.backgr{
+    background-color: #28a745;
+}
+
+/* IMG */
+
+.imgsize{
+    height: 25px;
+}
