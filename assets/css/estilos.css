@@ -91,25 +91,25 @@ nav .class-nav:visited{
   background-position: center;
 }
 
-.mis-trabajos h5{
+.mis-proyectos h5{
   color: #fec926;
 }
 
-.mis-trabajos .image-top:hover{
+.mis-proyectos .image-top:hover{
   opacity: 0.7;
 }
 
-.mis-trabajos .card{
+.mis-proyectos .card{
   border-radius: 35px;
 }
 
-.mis-trabajos .image-top{
+.mis-proyectos .image-top{
   border-top-left-radius: 35px;
   border-top-right-radius: 35px;
   border-bottom: #fec926 10px solid;
 }
 
-.mis-trabajos p{
+.mis-proyectos p{
   font-size: 0.85rem;
 }
 
